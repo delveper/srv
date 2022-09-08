@@ -1,3 +1,3 @@
 # SRV
 
-simple server
+simple server using http.ServeMux, mux.Router and httprouter
