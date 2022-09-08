@@ -1,3 +1,0 @@
-# SRV
-
-simple server
